@@ -66,9 +66,9 @@ Go to [https://cognitiveclass.ai](https://cognitiveclass.ai)
  |![Cloud](img/cloud.png) | [IBM Cloud Essentials](https://cognitiveclass.ai/badges/ibm-cloud-essentials) | Get an understanding of the relevance of IBM Cloud platform in the cloud computing paradigm. Understanding of the high level architecture of IBM Cloud. Understanding of boilerplates, services and runtimes supported on IBM Cloud. Ability to develop and deploy simple applications using IBM Cloud services on the IBM Cloud platform. |
  |![ML](img/ml.png)| [Machine Learning with Python](https://cognitiveclass.ai/badges/machine-learning-python) | The badge earner has demonstrated an understanding of Supervised vs. Unsupervised Learning, how Statistical Modelling relates to Machine Learning, and how to build and evaluate machine learning models. |
 
-### Task no. 4:  Get to know the community and interact with us on Slack - Join the Slack channel #crack-covid19-crisis
+### Task no. 4:  Get to know the community and interact with us on Slack 
 
-  Join the [#crack-covid19-crisis channel](https://www.bit.ly/ibm-dev))
+  Join the [#crack-covid19-crisis channel](https://www.bit.ly/ibm-dev) and mention your team details.
 
   If you do not have a team of your own, you can ask in the regional community channels like #bangalore-community
 
