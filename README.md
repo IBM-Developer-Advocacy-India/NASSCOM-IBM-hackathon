@@ -1,4 +1,4 @@
-# Call for Code 2020 India Virtual Hack
+# Crack the COVID-19 Crisis
 
 ## About
 
@@ -108,10 +108,10 @@ As stated earlier, India challenge submissions will only be considered for the C
 
 ### Timeline
 
-1. Registration begins on April 17th,2020 and closes on May 1st, 2020.
-2. Technical webcast and enablement for registered participants on May 5th, 2020.
-3. Submissions for the hackathon begin on May 5th, 2020 and ends on May 11th, 2020.
-4. Evaluation begins on May 11th, results announced on May 19th, 2020.
+1. Registration begins on April 20th,2020 and closes on April 30th, 2020.
+2. Technical webcast and enablement for registered participants on May 1st, 2020.
+3. Submissions for the hackathon begin on May 1st, 2020 and ends on May 5th, 2020.
+4. Results announced on May 13th, 2020.
 
 ### Submission Guidelines
 
